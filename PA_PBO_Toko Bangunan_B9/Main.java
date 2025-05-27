@@ -57,7 +57,7 @@ public class Main {
             System.out.println("3. Perbarui Bahan Bangunan");
             System.out.println("4. Hapus Bahan Bangunan");
             System.out.println("5. Konfirmasi Pesanan Pelanggan");
-            System.out.println("6. Kembali ke menu utama");
+            System.out.println("6. Kembali");
 
             System.out.print("Pilih menu: ");
             try {
